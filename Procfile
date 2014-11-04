@@ -1,1 +1,1 @@
-web: bin/hubot -a flowdock -n baileybot
+web: bin/hubot -a flowdock -n bailey
