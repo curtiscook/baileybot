@@ -11,5 +11,11 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-factoid"
+  "hubot-factoid",
+  "hubot-business-cat",
+  "hubots-darts",
+  "hubot-standup-alarm",
+  "hubot-thesimpsons",
+  "hubot-seriouslyguys",
+  "hubot-shakeshack"
 ]

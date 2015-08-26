@@ -9,6 +9,8 @@
     "hubot-diagnostics": "0.0.1",
     "hubot-factoid": "0.0.1",
     "hubot-flowdock": "^0.7.2",
+    "hubot-business-cat": "*",
+    "hubot-darts": "*",
     "hubot-google-images": "^0.1.0",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
@@ -19,7 +21,11 @@
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
+    "hubot-seriouslyguys": "*",
+    "hubot-shakeshack": "*",
     "hubot-shipit": "^0.1.1",
+    "hubot-standup-alarm": "*",
+    "hubot-thesimpsons": "*",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
