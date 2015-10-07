@@ -9,6 +9,7 @@
     "hubot-diagnostics": "0.0.1",
     "hubot-factoid": "0.0.1",
     "hubot-flowdock": "^0.7.2",
+    "hubot-slack": "^3.3.0",
     "hubot-business-cat": "*",
     "hubot-darts": "*",
     "hubot-google-images": "^0.1.0",
